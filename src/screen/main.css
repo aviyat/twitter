@@ -1,0 +1,35 @@
+.title{
+    text-align: center;
+    font-size: 50px;
+    font-family: serif
+}
+.rec {
+    width: 100%;
+    display: block;
+    height: 400px;
+
+}
+.input{
+    margin-bottom: 2%;
+    background-color: azure;
+}
+
+.tri {
+    width: 100%;
+    display: block;
+    height: 400px;
+}
+.modalTitle{
+    color: cadetblue;
+    font-family: auto;
+}
+.invalid-input {
+    display: block;
+    color: red;
+    font-size: 12px;
+}
+.btnexit{
+margin-left: 45%;
+background-color: cadetblue !important;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+}

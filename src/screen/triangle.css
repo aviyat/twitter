@@ -1,0 +1,24 @@
+.tri{
+    text-align: center;
+}
+.cardTri{
+    margin: auto;
+    width:400px;
+    height: 400px !important;
+    border-radius: 200px !important;
+    border: 4px solid  rgb(157, 179, 243)!important;
+
+} 
+.modalStars{
+   
+  background: rgba(0, 0, 0, 0.6) !important;
+
+}
+
+.title{
+    text-align: center;
+}
+.title2{
+    text-align: center;
+    margin-top: 30%;
+}
